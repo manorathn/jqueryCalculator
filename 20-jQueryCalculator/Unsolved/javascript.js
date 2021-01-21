@@ -1,5 +1,14 @@
 //create Dom for the global elements
+$(document).ready(function() {
+   
+    $(".btn").on("click", function (){
+        var numbers = $(this).val();
+        console.log(numbers);
+    if 
 
+    })
+
+});
 
 // create a function that builds an array to collect the numbers selected
 
